@@ -52,8 +52,7 @@ I enjoy breaking things — ethically — and helping secure them better.
 
 ### 🌐 Portfolio & Contact:
 - 🔗 Website: [https://rizqisec.id](https://rizqisec.id) 
-- 📧 Email: email@test.com  
-- 🔗 LinkedIn: [linkedin.com/in/test](#)
+- 📧 Email: rizqisec@gmail.com  
 
 
 ---
